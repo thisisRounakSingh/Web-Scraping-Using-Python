@@ -14,11 +14,13 @@ Then, Python can do cool things with the data it found. It can organize it neatl
 That's basically how web scraping with Python works. It's like having a magic robot friend that can find information on websites and bring it back to you. Pretty cool, right?
 
 # How to view the CSV file in vscode?
-Watch this video.
+Watch this [video](https://github.com/rounaksingh557/Web-Scraping-In-Python/raw/master/Video%20Help/How%20to%20View%20CVS%20%20In%20Vscode.mp4)
+
+Or Download it from [here](https://github.com/rounaksingh557/Web-Scraping-In-Python/blob/master/Video%20Help/How%20to%20View%20CVS%20%20In%20Vscode.mp4)
 
 # Source Code
 
-Source code is present in [Scraper.py](github.com)
+Source code is present in [Scraper.py](https://github.com/rounaksingh557/Web-Scraping-In-Python/blob/master/Src/scraper.py)
 
 ## Flow of Program
 
