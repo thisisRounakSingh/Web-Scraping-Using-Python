@@ -3,7 +3,6 @@ Author: Rounak Singh (@rounaksingh557)
 Assigned By: Whitehatjr (@whitehatjr)
 Start Date: 05/06/2023
 """
-
 # Your are on master - First day of "Web Scraping Using Python".
 
 from selenium import webdriver
