@@ -13,7 +13,7 @@ import pandas as pd
 START_URL = "https://en.wikipedia.org/wiki/List_of_brightest_stars_and_other_record_stars"
 
 # PLEASE CHANGE YOU CHROME WEBDRIVER DIRECTORY.
-browser = webdriver.Chrome("C:/Users/inbox/Programming/My Project/Python/Whitehatjr/Web Scraping Using Python/chromedriver.exe")
+browser = webdriver.Chrome("C:/Users/inbox/Programming/My Project/Python/Whitehatjr/Web Scraping Using Python/Driver/chromedriver.exe")
 browser.get(START_URL)
 
 time.sleep(10)
@@ -51,4 +51,4 @@ print(stars_data)
 
 headers = ['Star_name','Distance','Mass','Radius','Luminosity']     
 star_df_1 = pd.DataFrame(stars_data, columns=headers)
-star_df_1.to_csv('scraped_data.csv',index=True, index_label="id")
+star_df_1.to_csv('/Output/scraped_data.csv',index=True, index_label="id")
