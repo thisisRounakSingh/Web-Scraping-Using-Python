@@ -1,5 +1,5 @@
 # Web Scarping Using Python - Day 1
-**chatgpt** --> Explaining this concept to like I'm 5 years old.
+**chatgpt** --> Explaining this concept to me like I'm 5 years old.
 
 **response** -->  Sure! Imagine you have a magic robot friend who can look at any website and find information for you. This magic robot friend is called Python, and it knows how to scrape (or collect) data from websites.
 
