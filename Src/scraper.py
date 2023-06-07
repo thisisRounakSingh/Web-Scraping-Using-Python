@@ -1,9 +1,10 @@
 """
 Author: Rounak Singh (@rounaksingh557)
 Assigned By: Whitehatjr (@whitehatjr)
-Start Date: 05/06/2023
+Continuation Date: 06/06/2023
 """
-# Your are on master - First day of "Web Scraping Using Python".
+
+# Your are on Lumos - Second day of "Web Scraping Using Python".
 
 from selenium import webdriver
 from bs4 import BeautifulSoup
@@ -51,4 +52,4 @@ print(stars_data)
 
 headers = ['Star_name','Distance','Mass','Radius','Luminosity']     
 star_df_1 = pd.DataFrame(stars_data, columns=headers)
-star_df_1.to_csv('/Output/scraped_data.csv',index=True, index_label="id")
+star_df_1.to_csv('Output/scraped_data.csv',index=True, index_label="id")
