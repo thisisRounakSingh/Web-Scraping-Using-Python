@@ -16,7 +16,7 @@ That's basically how web scraping with Python works. It's like having a magic ro
 # How to view the CSV file in vscode?
 Watch this [video](https://github.com/rounaksingh557/Web-Scraping-In-Python/raw/master/Video%20Help/How%20to%20View%20CVS%20%20In%20Vscode.mp4)
 
-Or Download it from [here](https://github.com/rounaksingh557/Web-Scraping-In-Python/blob/master/Video%20Help/How%20to%20View%20CVS%20%20In%20Vscode.mp4)
+Or Download it from [here](https://github.com/rounaksingh557/Web-Scraping-In-Python/blob/Magenta/Video%20Help/How%20to%20View%20CVS%20%20In%20Vscode.mp4)
 
 # Source Code
 
