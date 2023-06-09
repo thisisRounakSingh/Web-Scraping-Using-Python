@@ -1,10 +1,10 @@
 """
 Author: Rounak Singh (@rounaksingh557)
 Assigned By: Whitehatjr (@whitehatjr)
-Continuation Date: 06/06/2023
+Continuation Date: 08/06/2023
 """
 
-# Your are on Lumos - Second day of "Web Scraping Using Python".
+# Your are on Magenta - Third day of "Web Scraping Using Python".
 
 from selenium import webdriver
 from bs4 import BeautifulSoup
