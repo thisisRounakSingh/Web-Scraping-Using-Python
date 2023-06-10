@@ -14,7 +14,7 @@ import pandas as pd
 START_URL = "https://en.wikipedia.org/wiki/List_of_brightest_stars_and_other_record_stars"
 
 # PLEASE CHANGE YOU CHROME WEBDRIVER DIRECTORY.
-browser = webdriver.Chrome("C:/Users/inbox/Programming/My Project/Python/Whitehatjr/Web Scraping Using Python/Driver/chromedriver.exe")
+browser = webdriver.Chrome("C:/Users/rouna/Programming/My Project/Python/Whitehatjr/Web Scraping Using Python/Driver/chromedriver.exe")
 browser.get(START_URL)
 
 time.sleep(10)
